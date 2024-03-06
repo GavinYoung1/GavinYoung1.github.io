@@ -8,7 +8,7 @@
 # Site Settings
 title                    : "Zhengwei Yang"
 description              : "Ph.D. student at WHU AIM Lab"
-repository               : "BoomShakaY/zhengwei.github.io"
+repository               : "GavinYoung1/GavinYoung1.github.io"
 google_scholar_stats_use_cdn : true
 
 # google analytics
@@ -37,7 +37,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : # e.g., "BoomShakaY"
+  github           : # e.g., "https://github.com/BoomShakaY"
   google_plus      :
   keybase          :
   instagram        :
