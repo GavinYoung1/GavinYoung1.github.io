@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Zhengwei Yang"
-description              : "Ph.D. student at WHU AIM Lab"
+description              : "Ph.D. at WHU AIM Lab"
 repository               : "GavinYoung1/GavinYoung1.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -21,7 +21,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Zhengwei Yang (杨铮伟)"
+  name             : "Zhengwei Yang | 杨铮伟"
   avatar           : "images/android-chrome-192x192.png"
   bio              : "Stay foolish, stay hungry, and embrace your life"
   location         : "Singapore"

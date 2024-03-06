@@ -9,7 +9,11 @@
   </div>
 
   <div class="author__content">
-    <h3 class="author__name">{{ author.name }}</h3>
+    {% assign names = author.name | split: "|" %}
+    <h3 class="author__name" style="text-align: center;">
+      {{ names[0] }}<br>
+      {{ names[1] }}
+    </h3>
     {% if author.bio %}<p class="author__bio">{{ author.bio }}</p>{% endif %}
   </div>
 
