@@ -87,5 +87,5 @@ If you are seeking any form of **academic cooperation** on person reidentificati
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/) -->
 
-# 💻 Internships -->
+# 💻 Internshipss
 - *2023.11 - 2024.11*, Visiting Ph.D, Centre for Frontier AI Research (CFAR), Agency for Science, Technology and Research (A*STAR), Singapore
