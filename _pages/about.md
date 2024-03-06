@@ -30,7 +30,7 @@ If you are seeking any form of **academic cooperation** on person reidentificati
 - *2023.11*: &nbsp;🎉🎉 He begins his visting at A*STAR in Singapore!
 - *2023.07*: &nbsp;🎉🎉 Two co-authored papers are accepted by ACM MM 2023!
 - *2023.05*: &nbsp;🎉🎉 One paper is accepted by TIP!
-- *2022.04*: &nbsp;🎉🎉 One co-authore paper is accepted by TITS!
+- *2022.04*: &nbsp;🎉🎉 One co-authored paper is accepted by TITS!
 - *2023.03*: &nbsp;🎉🎉 One paper is accepted by CVPR 2023!
 - *2022.06*: &nbsp;🎉🎉 One co-authored paper is accepted by ACM MM 2022!
 - *2022.03*: &nbsp;🎉🎉 One paper is accepted by ICME 2022!
