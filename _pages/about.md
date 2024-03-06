@@ -16,14 +16,25 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. Suspendisse condimentum, libero vel tempus mattis, risus risus vulputate libero, elementum fermentum mi neque vel nisl. Maecenas facilisis maximus dignissim. Curabitur mattis vulputate dui, tincidunt varius libero luctus eu. Mauris mauris nulla, scelerisque eget massa id, tincidunt congue felis. Sed convallis tempor ipsum rhoncus viverra. Pellentesque nulla orci, accumsan volutpat fringilla vitae, maximus sit amet tortor. Aliquam ultricies odio ut volutpat scelerisque. Donec nisl nisl, porttitor vitae pharetra quis, fringilla sed mi. Fusce pretium dolor ut aliquam consequat. Cras volutpat, tellus accumsan mattis molestie, nisl lacus tempus massa, nec malesuada tortor leo vel quam. Aliquam vel ex consectetur, vehicula leo nec, efficitur eros. Donec convallis non urna quis feugiat.
+He is currently a 2nd-year PhD student of [AIM Lab](http://aim-nercms.whu.edu.cn/) at [National Engineering Research Center for Multimedia Software(国家多媒体软件工程技术研究中心)](http://multimedia.whu.edu.cn/) and [Wuhan University (武汉大学)](https://www.whu.edu.cn/), advised by [Prof. Zheng Wang](https://wangzwhu.github.io/home/). 
+I am also a visiting student supervised by [Basura Fernando](https://basurafernando.github.io/) in [Agency for Science, Technology and Research (A*STAR) Singapore](https://www.a-star.edu.sg/). 
+He received his Master's and Bachelor's degrees from [Wuhan University of Technology](http://english.whut.edu.cn/), School of Computer Science and Artificial Intelligence, under the supervision of [Prof. Xian Zhong](http://cst.whut.edu.cn/xygk/szdw/201505/t20150527_876884.shtml).
 
-My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
+His research interests include causal inference, computer vision, and retrieval. He has published over 10 papers at the top international conferences and journals (<a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>) such as CVPR, ACM MM.
+<!-- with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a>  -->
+If you are seeking any form of academic cooperation on person reidentification, cross-modality retrieval, please feel free to email at yzw_aim@whu.edu.cn.
 
+He has also served as a reviewer of multiple conferences and journals, including CVPR, IJCAI, ICANN, ACM MM, TIP, TMM, and JEI. 
 
 # 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+
+- *2023.07*: &nbsp;🎉🎉 Two co-authored papers are accepted by ACM MM 2023!
+- *2023.05*: &nbsp;🎉🎉 One paper is accepted by TIP!
+- *2022.04*: &nbsp;🎉🎉 One co-authore paper is accepted by TITS!
+- *2023.03*: &nbsp;🎉🎉 One paper is accepted by CVPR 2023!
+- *2022.06*: &nbsp;🎉🎉 One co-authored paper is accepted by ACM MM 2022!
+- *2022.03*: &nbsp;🎉🎉 One paper is accepted by ICME 2022!
+- *2021.03*: &nbsp;🎉🎉 One paper is accepted by ICME 2021!
 
 # 📝 Publications 
 
