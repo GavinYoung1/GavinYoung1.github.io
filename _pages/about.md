@@ -28,6 +28,7 @@ He has also served as a reviewer of multiple conferences and journals, including
 If you are seeking any form of **academic cooperation** on person reidentification, cross-modality retrieval, please feel free to email at [yzw_aim@whu.edu.cn](mailto:yzw_aim@whu.edu.cn).
 
 # 🔥 News
+- *2024.12*: &nbsp;🎉🎉 One co-authored paper is accepted by AAAI 2025!
 - *2024.07*: &nbsp;🎉🎉 One co-authored paper is accepted by ECCV 2024!
 - *2024.04*: &nbsp;🎉🎉 One co-authored paper is accepted by IJCAI 2024!
 - *2023.11*: &nbsp;🎉🎉 He begins his visting at A*STAR in Singapore!
@@ -65,9 +66,9 @@ If you are seeking any form of **academic cooperation** on person reidentificati
 
 </div>
 </div>
-
-- [Zero-shot Object Counting with Good Exemplars](), Huilin Zhu\*, Jingling Yuan, **Zhengwei Yang\***, Yu Guo, Xian Zhong, Zheng Wang, Shengfeng He, **ECCV 2024**
-- [Expressiveness is Effectiveness: Self-supervised Fashion-aware CLIP for Video-to-Shop Retrieval](), Likai Tian\*, **Zhengwei Yang\***, Zechao Hu, Li Hao, Yifang Yin, Zheng Wang, **IJCAI 2024**
+- [VEGAS: Towards Visually Explainable and Grounded Artificial Social Intelligence](), Hao Li, Hao Fei, Zechao Hu, Zhengwei Yang, Zheng Wang, **AAAI 2025**
+- [Zero-shot Object Counting with Good Exemplars](https://arxiv.org/abs/2407.04948)[code](https://github.com/HopooLinZ/VA-Count), Huilin Zhu\*, Jingling Yuan, **Zhengwei Yang\***, Yu Guo, Xian Zhong, Zheng Wang, Shengfeng He, **ECCV 2024**
+- [Expressiveness is Effectiveness: Self-supervised Fashion-aware CLIP for Video-to-Shop Retrieval](https://doi.org/10.24963/ijcai.2024/148), Likai Tian\*, **Zhengwei Yang\***, Zechao Hu, Li Hao, Yifang Yin, Zheng Wang, **IJCAI 2024**
 - [Striking a balance: Unsupervised cross-domain crowd counting via knowledge diffusion](https://dl.acm.org/doi/abs/10.1145/3581783.3611797), Haiyang Xie\*, **Zhengwei Yang\***, Huilin Zhu, Zheng Wang, **ACM MM 2023**
 - [DAOT: Domain-Agnostically Aligned Optimal Transport for Domain-Adaptive Crowd Counting](https://dl.acm.org/doi/abs/10.1145/3581783.3611793), Huilin Zhu, Jingling Yuan, Xian Zhong, **Zhengwei Yang**, Zheng Wang, Shengfeng He, **ACM MM 2023**
 - [Visual Exposes You: Pedestrian Trajectory Prediction Meets Visual Intention](https://ieeexplore.ieee.org/abstract/document/10103218/), Xian Zhong\*, Xu Yan, **Zhengwei Yang\***, Wenxin Huang, Kui Jiang, Ryan Wen Liu, Zheng Wang, **TITS 2023**
