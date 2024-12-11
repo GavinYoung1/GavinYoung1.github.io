@@ -85,7 +85,7 @@ If you are seeking any form of **academic cooperation** on person reidentificati
 # 📖 Educations
 - *2022.09 - 2024.12 (now)*, Doctoral, Wuhan University, Wuhan.
 - *2019.09 - 2022.06*, Master, Wuhan University of Technology, Wuhan.
-- *2015.09 - 2029.06*, Bachelor, Wuhan University of Technology, Wuhan.
+- *2015.09 - 2019.06*, Bachelor, Wuhan University of Technology, Wuhan.
 
 <!-- # 💬 Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
