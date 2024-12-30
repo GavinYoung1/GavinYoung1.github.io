@@ -21,7 +21,7 @@ He is currently a visiting Ph.D. supervised by [Basura Fernando](https://basuraf
 <!-- and cooperates with [Prof. SHOU, Zheng Mike](https://sites.google.com/view/showlab) in National University of Singapore (新加坡国立大学). -->
 He received his Master's and Bachelor's degrees from [Wuhan University of Technology](http://english.whut.edu.cn/), School of Computer Science and Artificial Intelligence, under the supervision of [Prof. Xian Zhong](http://cst.whut.edu.cn/xygk/szdw/201505/t20150527_876884.shtml).
 
-His research interests include causal inference, computer vision, and retrieval. He has published over 10 papers at the top international conferences and journals (<a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>) such as CVPR, ACM MM.
+His research interests include causal inference, computer vision, and retrieval. He has published over 10 papers at the top international conferences and journals (<a href='https://scholar.google.com/citations?user=xKVIwtEAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>) such as CVPR, ACM MM.
 <!-- with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a>  -->
 He has also served as a reviewer of multiple conferences and journals, including CVPR, IJCAI, ICANN, ACM MM, TIP, TMM, and JEI. 
 
