@@ -28,6 +28,7 @@ He has also served as a reviewer of multiple conferences and journals, including
 If you are seeking any form of **academic cooperation** on person reidentification, cross-modality retrieval, please feel free to email at [yzw_aim@whu.edu.cn](mailto:yzw_aim@whu.edu.cn).
 
 # 🔥 News
+- *2025.06*: &nbsp;🎉🎉 One co-authored paper is accepted by ICCV 2025!
 - *2025.04*: &nbsp;🎉🎉 One co-authored paper is accepted by SIGIR 2025!
 - *2025.02*: &nbsp;🎉🎉 One co-authored paper is accepted by CVPR 2025!
 - *2024.12*: &nbsp;🎉🎉 One co-authored paper is accepted by AAAI 2025!
@@ -69,6 +70,7 @@ If you are seeking any form of **academic cooperation** on person reidentificati
 
 </div>
 </div>
+- [Cross-Category Subjectivity Generalization for Style-Adaptive Sketch Re-ID](), Zechao Hu, **Zhengwei Yang**, Hao Li, Yixiong Zou, Zheng Wang, **ICCV 2025**
 - [Unified Category and Style Generalization for Instance-Level Sketch Retrieval](), Zechao Hu, **Zhengwei Yang**, Hao Li, Yixiong Zou, Fengbin Zhu, Zheng Wang, **SIGIR 2025**
 - [CCIN: Compositional Conflict Identification and Neutralization for\\Composed Image Retrieval](), Likai Tian, Jian Zhao, Zechao Hu, **Zhengwei Yang**, Hao Li, Lei Jin, Zheng Wang, Xuelong Li, **CVPR 2025**
 - [VEGAS: Towards Visually Explainable and Grounded Artificial Social Intelligence](), Hao Li, Hao Fei, Zechao Hu, **Zhengwei Yang**, Zheng Wang, **AAAI 2025**
