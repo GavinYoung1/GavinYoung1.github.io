@@ -28,6 +28,8 @@ He has also served as a reviewer of multiple conferences and journals, including
 If you are seeking any form of **academic cooperation** on person reidentification, cross-modality retrieval, please feel free to email at [yzw_aim@whu.edu.cn](mailto:yzw_aim@whu.edu.cn).
 
 # 🔥 News
+- *2025.07*: &nbsp;🎉🎉 One paper is accepted by IJCV journal！
+- *2025.07*: &nbsp;🎉🎉 One co-authored paper is accepted by TIFS journal！
 - *2025.07*: &nbsp;🎉🎉 One co-authored paper is accepted by ACM MM 2025!
 - *2025.06*: &nbsp;🎉🎉 One co-authored paper is accepted by ICCV 2025!
 - *2025.04*: &nbsp;🎉🎉 One co-authored paper is accepted by SIGIR 2025!
@@ -46,6 +48,19 @@ If you are seeking any form of **academic cooperation** on person reidentificati
 - *2021.03*: &nbsp;🎉🎉 One paper is accepted by ICME 2021!
 
 # 📝 Publications 
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IJCV 2025</div><img src='images/IJCV25.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Clothing Purification with Causality Meets Vision-Language Pretraining Models]()
+
+**Zhengwei Yang\***, Huilin Zhu\*, Nan Lei, Basura Fernando, Zheng Wang
+
+[**Code**]() <strong><span class='show_paper_citations' data='xKVIwtEAAAAJ:Y0pCki6q_DkC'></span></strong>
+-  This work constructs a clothing indication VLP pipeline to efficiently capture clothing semantics and employs causality analysis to purify the relationship between learned visual features and intrinsic identity representation from two causal aspects.
+
+</div>
+</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2023</div><img src='images/CVPR23.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -71,6 +86,7 @@ If you are seeking any form of **academic cooperation** on person reidentificati
 
 </div>
 </div>
+- [Contrastive-Generative-Contrastive: NeutralizeSubjectivity in Sketch Re-identification](), Zechao Hu, **Zhengwei Yang**, Hao Li, Zheng Wang, **TIFS 2025**
 - [From Language to Instance: Generative Visual Prompting for Zero-shot Camouflaged Object Detection](), Zihou Zhang, Hao Li, **Zhengwei Yang**, Zechao Hu, Liang Li, Zheng Wang, **ACM MM 2025**
 - [Cross-Category Subjectivity Generalization for Style-Adaptive Sketch Re-ID](), Zechao Hu, **Zhengwei Yang**, Hao Li, Yixiong Zou, Zheng Wang, **ICCV 2025**
 - [Unified Category and Style Generalization for Instance-Level Sketch Retrieval](), Zechao Hu, **Zhengwei Yang**, Hao Li, Yixiong Zou, Fengbin Zhu, Zheng Wang, **SIGIR 2025**
