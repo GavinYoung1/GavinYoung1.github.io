@@ -52,7 +52,7 @@ If you are seeking any form of **academic cooperation** on person reidentificati
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IJCV 2025</div><img src='images/IJCV25.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Clothing Purification with Causality Meets Vision-Language Pretraining Models]()
+[Clothing Purification with Causality Meets Vision-Language Pretraining Models](https://link.springer.com/article/10.1007/s11263-025-02548-7?utm_source=rct_congratemailt&utm_medium=email&utm_campaign=nonoa_20250811&utm_content=10.1007/s11263-025-02548-7)
 
 **Zhengwei Yang\***, Huilin Zhu\*, Nan Lei, Basura Fernando, Zheng Wang
 
@@ -70,7 +70,7 @@ If you are seeking any form of **academic cooperation** on person reidentificati
 **Zhengwei Yang**, Meng Lin, Xian Zhong, Yu Wu, Zheng Wang
 
 [**Code**](https://github.com/BoomShakaY/AIM-CCReID) <strong><span class='show_paper_citations' data='xKVIwtEAAAAJ:Y0pCki6q_DkC'></span></strong>
--  The first work introduces casality to cloth-changing person ReID, and proposes a causality-based Auto-Intervention Model (AIM) to mitigate clothing bias for robust cloth-changing person ReID.
+-  The first work introduces causality to cloth-changing person ReID, and proposes a causality-based Auto-Intervention Model (AIM) to mitigate clothing bias for robust cloth-changing person ReID.
 
 </div>
 </div>
