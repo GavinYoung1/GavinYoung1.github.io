@@ -16,8 +16,8 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-He is currently a 2nd-year PhD student of [AIM Lab](http://aim-nercms.whu.edu.cn/) at [National Engineering Research Center for Multimedia Software(国家多媒体软件工程技术研究中心)](http://multimedia.whu.edu.cn/) and [Wuhan University (武汉大学)](https://www.whu.edu.cn/), advised by [Prof. Zheng Wang](https://wangzwhu.github.io/home/). 
-He is currently a visiting Ph.D. supervised by [Basura Fernando](https://basurafernando.github.io/) in [Agency for Science, Technology and Research (A*STAR) Singapore](https://www.a-star.edu.sg/).
+He is currently a 4th-year PhD student of [AIM Lab](http://aim-nercms.whu.edu.cn/) at [National Engineering Research Center for Multimedia Software(国家多媒体软件工程技术研究中心)](http://multimedia.whu.edu.cn/) and [Wuhan University (武汉大学)](https://www.whu.edu.cn/), advised by [Prof. Zheng Wang](https://wangzwhu.github.io/home/). 
+He is currently a visiting Ph.D. student supervised by [Basura Fernando](https://basurafernando.github.io/) in [Agency for Science, Technology and Research (A*STAR) Singapore](https://www.a-star.edu.sg/).
 <!-- and cooperates with [Prof. SHOU, Zheng Mike](https://sites.google.com/view/showlab) in National University of Singapore (新加坡国立大学). -->
 He received his Master's and Bachelor's degrees from [Wuhan University of Technology](http://english.whut.edu.cn/), School of Computer Science and Artificial Intelligence, under the supervision of [Prof. Xian Zhong](http://cst.whut.edu.cn/xygk/szdw/201505/t20150527_876884.shtml).
 
@@ -86,12 +86,12 @@ If you are seeking any form of **academic cooperation** on person reidentificati
 
 </div>
 </div>
-- [Contrastive-Generative-Contrastive: NeutralizeSubjectivity in Sketch Re-identification](), Zechao Hu, **Zhengwei Yang**, Hao Li, Zheng Wang, **TIFS 2025**
+- [Contrastive-Generative-Contrastive: NeutralizeSubjectivity in Sketch Re-identification](https://ieeexplore.ieee.org/abstract/document/11095736/), Zechao Hu, **Zhengwei Yang**, Hao Li, Zheng Wang, **TIFS 2025**
 - [From Language to Instance: Generative Visual Prompting for Zero-shot Camouflaged Object Detection](), Zihou Zhang, Hao Li, **Zhengwei Yang**, Zechao Hu, Liang Li, Zheng Wang, **ACM MM 2025**
 - [Cross-Category Subjectivity Generalization for Style-Adaptive Sketch Re-ID](), Zechao Hu, **Zhengwei Yang**, Hao Li, Yixiong Zou, Zheng Wang, **ICCV 2025**
-- [Unified Category and Style Generalization for Instance-Level Sketch Retrieval](), Zechao Hu, **Zhengwei Yang**, Hao Li, Yixiong Zou, Fengbin Zhu, Zheng Wang, **SIGIR 2025**
-- [CCIN: Compositional Conflict Identification and Neutralization for\\Composed Image Retrieval](), Likai Tian, Jian Zhao, Zechao Hu, **Zhengwei Yang**, Hao Li, Lei Jin, Zheng Wang, Xuelong Li, **CVPR 2025**
-- [VEGAS: Towards Visually Explainable and Grounded Artificial Social Intelligence](), Hao Li, Hao Fei, Zechao Hu, **Zhengwei Yang**, Zheng Wang, **AAAI 2025**
+- [Unified Category and Style Generalization for Instance-Level Sketch Retrieval](https://dl.acm.org/doi/abs/10.1145/3726302.3730108), Zechao Hu, **Zhengwei Yang**, Hao Li, Yixiong Zou, Fengbin Zhu, Zheng Wang, **SIGIR 2025**
+- [CCIN: Compositional Conflict Identification and Neutralization for\\Composed Image Retrieval](https://openaccess.thecvf.com/content/CVPR2025/html/Tian_CCIN_Compositional_Conflict_Identification_and_Neutralization_for_Composed_Image_Retrieval_CVPR_2025_paper.html), Likai Tian, Jian Zhao, Zechao Hu, **Zhengwei Yang**, Hao Li, Lei Jin, Zheng Wang, Xuelong Li, **CVPR 2025**
+- [VEGAS: Towards Visually Explainable and Grounded Artificial Social Intelligence](https://ojs.aaai.org/index.php/AAAI/article/view/32497), Hao Li, Hao Fei, Zechao Hu, **Zhengwei Yang**, Zheng Wang, **AAAI 2025**
 - [Zero-shot Object Counting with Good Exemplars](https://arxiv.org/abs/2407.04948)[code](https://github.com/HopooLinZ/VA-Count), Huilin Zhu\*, Jingling Yuan, **Zhengwei Yang\***, Yu Guo, Xian Zhong, Zheng Wang, Shengfeng He, **ECCV 2024**
 - [Expressiveness is Effectiveness: Self-supervised Fashion-aware CLIP for Video-to-Shop Retrieval](https://doi.org/10.24963/ijcai.2024/148), Likai Tian\*, **Zhengwei Yang\***, Zechao Hu, Li Hao, Yifang Yin, Zheng Wang, **IJCAI 2024**
 - [Striking a balance: Unsupervised cross-domain crowd counting via knowledge diffusion](https://dl.acm.org/doi/abs/10.1145/3581783.3611797), Haiyang Xie\*, **Zhengwei Yang\***, Huilin Zhu, Zheng Wang, **ACM MM 2023**
