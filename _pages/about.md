@@ -87,11 +87,11 @@ If you are seeking any form of **academic cooperation** on person reidentificati
 
 </div>
 </div>
-- [Contrastive-Generative-Contrastive: NeutralizeSubjectivity in Sketch Re-identification](https://ieeexplore.ieee.org/abstract/document/11095736/), Zechao Hu, **Zhengwei Yang**, Hao Li, Zheng Wang, **TIFS 2025**
-- [From Language to Instance: Generative Visual Prompting for Zero-shot Camouflaged Object Detection](), Zihou Zhang, Hao Li, **Zhengwei Yang**, Zechao Hu, Liang Li, Zheng Wang, **ACM MM 2025**
-- [Cross-Category Subjectivity Generalization for Style-Adaptive Sketch Re-ID](), Zechao Hu, **Zhengwei Yang**, Hao Li, Yixiong Zou, Zheng Wang, **ICCV 2025**
+- [Contrastive-Generative-Contrastive: Neutralize Subjectivity in Sketch Re-identification](https://ieeexplore.ieee.org/abstract/document/11095736/), Zechao Hu, **Zhengwei Yang**, Hao Li, Zheng Wang, **TIFS 2025**
+- [From Language to Instance: Generative Visual Prompting for Zero-shot Camouflaged Object Detection](https://dl.acm.org/doi/10.1145/3746027.3755212), Zihou Zhang, Hao Li, **Zhengwei Yang**, Zechao Hu, Liang Li, Zheng Wang, **ACM MM 2025**
+- [Cross-Category Subjectivity Generalization for Style-Adaptive Sketch Re-ID](https://openaccess.thecvf.com/content/ICCV2025/papers/Hu_Cross-Category_Subjectivity_Generalization_for_Style-Adaptive_Sketch_Re-ID_ICCV_2025_paper.pdf), Zechao Hu, **Zhengwei Yang**, Hao Li, Yixiong Zou, Zheng Wang, **ICCV 2025**
 - [Unified Category and Style Generalization for Instance-Level Sketch Retrieval](https://dl.acm.org/doi/abs/10.1145/3726302.3730108), Zechao Hu, **Zhengwei Yang**, Hao Li, Yixiong Zou, Fengbin Zhu, Zheng Wang, **SIGIR 2025**
-- [CCIN: Compositional Conflict Identification and Neutralization for\\Composed Image Retrieval](https://openaccess.thecvf.com/content/CVPR2025/html/Tian_CCIN_Compositional_Conflict_Identification_and_Neutralization_for_Composed_Image_Retrieval_CVPR_2025_paper.html), Likai Tian, Jian Zhao, Zechao Hu, **Zhengwei Yang**, Hao Li, Lei Jin, Zheng Wang, Xuelong Li, **CVPR 2025**
+- [CCIN: Compositional Conflict Identification and Neutralization for Composed Image Retrieval](https://openaccess.thecvf.com/content/CVPR2025/html/Tian_CCIN_Compositional_Conflict_Identification_and_Neutralization_for_Composed_Image_Retrieval_CVPR_2025_paper.html), Likai Tian, Jian Zhao, Zechao Hu, **Zhengwei Yang**, Hao Li, Lei Jin, Zheng Wang, Xuelong Li, **CVPR 2025**
 - [VEGAS: Towards Visually Explainable and Grounded Artificial Social Intelligence](https://ojs.aaai.org/index.php/AAAI/article/view/32497), Hao Li, Hao Fei, Zechao Hu, **Zhengwei Yang**, Zheng Wang, **AAAI 2025**
 - [Zero-shot Object Counting with Good Exemplars](https://arxiv.org/abs/2407.04948)[code](https://github.com/HopooLinZ/VA-Count), Huilin Zhu\*, Jingling Yuan, **Zhengwei Yang\***, Yu Guo, Xian Zhong, Zheng Wang, Shengfeng He, **ECCV 2024**
 - [Expressiveness is Effectiveness: Self-supervised Fashion-aware CLIP for Video-to-Shop Retrieval](https://doi.org/10.24963/ijcai.2024/148), Likai Tian\*, **Zhengwei Yang\***, Zechao Hu, Li Hao, Yifang Yin, Zheng Wang, **IJCAI 2024**
