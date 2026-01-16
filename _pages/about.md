@@ -118,3 +118,6 @@ If you are seeking any form of **academic cooperation** on person reidentificati
 
 # 💻 Internshipss
 - *2023.11 - 2024.11*, Visiting Ph.D., Centre for Frontier AI Research (CFAR), Agency for Science, Technology and Research (A*STAR), Singapore
+- 
+
+<a href="https://info.flagcounter.com/PRrc"><img src="https://s01.flagcounter.com/count2/PRrc/bg_FFFFFF/txt_1E4454/border_A7BFCC/columns_4/maxflags_12/viewers_0/labels_1/pageviews_1/flags_0/percent_0/" alt="Flag Counter" border="0"></a>
