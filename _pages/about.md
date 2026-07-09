@@ -16,19 +16,21 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-He is currently a 4th-year PhD student of [AIM Lab](http://aim-nercms.whu.edu.cn/) at [National Engineering Research Center for Multimedia Software(国家多媒体软件工程技术研究中心)](http://multimedia.whu.edu.cn/) and [Wuhan University (武汉大学)](https://www.whu.edu.cn/), advised by [Prof. Zheng Wang](https://wangzwhu.github.io/home/). 
+He is currently an Associate Professor at the School of Information and Safety Engineering, Zhongnan University of Economics and Law. He received his Ph.D. degree from [AIM Lab](http://aim-nercms.whu.edu.cn/) at [National Engineering Research Center for Multimedia Software(国家多媒体软件工程技术研究中心)](http://multimedia.whu.edu.cn/) and [Wuhan University (武汉大学)](https://www.whu.edu.cn/), advised by [Prof. Zheng Wang](https://wangzwhu.github.io/home/). 
 He was a visiting Ph.D. student supervised by [Basura Fernando](https://basurafernando.github.io/) in [Agency for Science, Technology and Research (A*STAR) Singapore](https://www.a-star.edu.sg/).
 <!-- and cooperates with [Prof. SHOU, Zheng Mike](https://sites.google.com/view/showlab) in National University of Singapore (新加坡国立大学). -->
-He received his Master's and Bachelor's degrees from [Wuhan University of Technology](http://english.whut.edu.cn/), School of Computer Science and Artificial Intelligence, under the supervision of [Prof. Xian Zhong](http://cst.whut.edu.cn/xygk/szdw/201505/t20150527_876884.shtml).
+He received his Master's and Bachelor's degrees from [Wuhan University of Technology](http://english.whut.edu.cn/), School of Computer Science and Artificial Intelligence, under the supervision of [Prof. Xian Zhong](https://xiangroup.github.io/).
 
-His research interests include causal inference, computer vision, and retrieval. He has published over 10 papers at the top international conferences and journals (<a href='https://scholar.google.com/citations?user=xKVIwtEAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>) such as CVPR, ACM MM.
+His research interests include causal inference, computer vision, and retrieval. He has published over 30 papers at the top international conferences and journals (<a href='https://scholar.google.com/citations?user=xKVIwtEAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>) such as CVPR, ACM MM.
 <!-- with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a>  -->
-He has also served as a reviewer of multiple conferences and journals, including CVPR, IJCAI, ICANN, ACM MM, TIP, TMM, and JEI. 
+He has also served as a reviewer of multiple conferences and journals, including CVPR, ICCV, ECCV, NeurIPS, ICML, ICLR, AAAI, ACM MM, TIP, TMM, IJCV, TPAMI, etc. 
 
-If you are seeking any form of **academic cooperation** on person reidentification, cross-modality retrieval, please feel free to email at [yzw_aim@whu.edu.cn](mailto:yzw_aim@whu.edu.cn).
+If you are seeking any form of **academic cooperation** on person reidentification and cross-modality retrieval, please feel free to email at [yzw_aim@whu.edu.cn](mailto:yzw_aim@whu.edu.cn).
 
 
 # 🔥 News
+- *2026.07*: &nbsp;🎉🎉 He joined Zhongnan University of Economics and Law! Step onto a new journey!
+- *2026.06*: &nbsp;🎉🎉 He graduated from Wuhan University. Congratulate him!
 - *2025.07*: &nbsp;🎉🎉 One paper is accepted by IJCV journal！
 - *2025.07*: &nbsp;🎉🎉 One co-authored paper is accepted by TIFS journal！
 - *2025.07*: &nbsp;🎉🎉 One co-authored paper is accepted by ACM MM 2025!
@@ -104,11 +106,12 @@ If you are seeking any form of **academic cooperation** on person reidentificati
 
 
 # 🎖 Honors and Awards
+- *2026.06* He was awarded the Outstanding Graduate Student of Wuhan University
 - *2023.10* He won a national scholarship at Wuhan University
 - *2022.09* He was awarded the Outstanding Graduate Student and Outstanding Master’s Thesis of Wuhan University of Technology
 
 # 📖 Educations
-- *2022.09 - 2025.04 (now)*, Doctoral, Wuhan University, Wuhan.
+- *2022.09 - 2025.06*, Doctoral, Wuhan University, Wuhan.
 - *2019.09 - 2022.06*, Master, Wuhan University of Technology, Wuhan.
 - *2015.09 - 2019.06*, Bachelor, Wuhan University of Technology, Wuhan.
 
