@@ -29,7 +29,7 @@ If you are seeking any form of **academic cooperation** on person reidentificati
 
 
 # 🔥 News
-- *2026.08*: &nbsp;🎉🎉 One co-authored paper is accepted by ACL Findings!
+- *2026.08*: &nbsp;🎉🎉 One co-authored paper is accepted by EMNLP Findings!
 - *2026.07*: &nbsp;🎉🎉 He joined Zhongnan University of Economics and Law! Step onto a new journey!
 - *2026.06*: &nbsp;🎉🎉 He graduated from Wuhan University. Congratulate him!
 - *2025.07*: &nbsp;🎉🎉 One paper is accepted by IJCV journal！
@@ -90,7 +90,7 @@ If you are seeking any form of **academic cooperation** on person reidentificati
 
 </div>
 </div>
-- [Text-Conditioned Static-Dynamic Composition for Composed Video Retrieval](), Yulin Zhang, Haitian Zheng, **Zhengwei Yang**, Hao Li, Zheng wang, **ACL Findings 2026**
+- [Text-Conditioned Static-Dynamic Composition for Composed Video Retrieval](), Yulin Zhang*, Haitian Zheng*, **Zhengwei Yang\***, Hao Li, Zheng wang, **EMNLP Findings 2026**
 - [Contrastive-Generative-Contrastive: Neutralize Subjectivity in Sketch Re-identification](https://ieeexplore.ieee.org/abstract/document/11095736/), Zechao Hu, **Zhengwei Yang**, Hao Li, Zheng Wang, **TIFS 2025**
 - [From Language to Instance: Generative Visual Prompting for Zero-shot Camouflaged Object Detection](https://dl.acm.org/doi/10.1145/3746027.3755212), Zihou Zhang, Hao Li, **Zhengwei Yang**, Zechao Hu, Liang Li, Zheng Wang, **ACM MM 2025**
 - [Cross-Category Subjectivity Generalization for Style-Adaptive Sketch Re-ID](https://openaccess.thecvf.com/content/ICCV2025/papers/Hu_Cross-Category_Subjectivity_Generalization_for_Style-Adaptive_Sketch_Re-ID_ICCV_2025_paper.pdf), Zechao Hu, **Zhengwei Yang**, Hao Li, Yixiong Zou, Zheng Wang, **ICCV 2025**
